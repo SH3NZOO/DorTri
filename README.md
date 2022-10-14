@@ -5,8 +5,8 @@ Buka Git bash (PC)/termux (Android)
 Download Termux Disini, Wajib!!!
 https://f-droid.org/repo/com.termux_117.apk
 
-- Jika sudah anda download maka lanjut ke step di bawah ini 
-  anda ketikan di apps termux kalian yang sudah kalian install ya.
+- Jika sudah di download maka lanjut ke step di bawah ini 
+  dan ketikan di apps termux kalian yang sudah kalian install ya.
 
 - Step di bawah ini untuk install tools nya.
 ```
